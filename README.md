@@ -6,6 +6,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/Lopimake/Passive-Income-Bandwidth?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Lopimake/Passive-Income-Bandwidth?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active%20&%20Profitable-brightgreen?style=flat-square)
+![](https://komarev.com/ghpvc/?username=Lopimake&color=green)
 
 ## 📖 About This Repository
 
@@ -207,9 +208,4 @@ This repo is intended to be a community resource. If you know of other legitimat
 Feel free to share your results and setups!
 
 ---
-
-<p align="center"> 
-  Views<br>
-  <img src="https://profile-counter.glitch.me/passiveincomebandwitch/count.svg" />
-</p>
 
