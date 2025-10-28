@@ -62,12 +62,12 @@ These are the services I personally use and recommend. They are reliable, pay on
 This is the market leader and the most well-known name in the space. It features a clean UI, a stable application, and an excellent referral program.
 
 * **How it Works:** Standard bandwidth sharing. It also offers an optional "JumpTask" mode for faster crypto payouts (in JMPT) with a permanent bonus on your earnings.
-* **Payouts:** PayPal, Bitcoin (BTC), or JMPT.
-* **Payout Threshold:** $20 (for PayPal/BTC) or almost instant (via JumpTask).
-* **Bonus:** Get a **$5 starting bonus** when you sign up using the link below.
+* **Payouts:** PayPal or JMPT.
+* **Payout Threshold:** $20 (for PayPal) or almost instant (via JumpTask).
+* **Bonus:** Get a **$3 starting bonus** when you sign up using the link below.
 * **My Take:** A must-have. It's the most stable and popular. The JumpTask option is a fantastic addition for those interested in crypto.
 
-➡️ **[Join Honeygain (and get $5 free) here](https://join.honeygain.com/NOLANFFFDC)**
+➡️ **[Join Honeygain (and get $3 free) here](https://join.honeygain.com/NOLANFFFDC)**
 
 *My Payment Proof:*
 ![Honeygain Proof](https://i.imgur.com/LvAKusW.png)
@@ -108,7 +108,7 @@ Also very popular, Pawns.app stands out by combining bandwidth sharing with othe
 
 | Platform | Sign-up Bonus | Payout Threshold | Payout Methods | Supported Platforms |
 | :--- | :---: | :---: | :--- | :--- |
-| **[Honeygain](https://join.honeygain.com/NOLANFFFDC)** | **$5.00** | $20.00 | PayPal, JMPT | Windows, macOS, Android, iOS, Linux (Docker) |
+| **[Honeygain](https://join.honeygain.com/NOLANFFFDC)** | **$3.00** | $20.00 | PayPal, JMPT | Windows, macOS, Android, iOS, Linux (Docker) |
 | **[EarnApp](https://earnapp.com/i/i6ee3tb)** | $0.00 | **$2.50** | PayPal, Amazon GC, Wise | Windows, macOS, Android, Linux, Raspberry Pi |
 | **[Pawns.app](https://pawns.app/?r=1800318)** | **$1.00** | $5.00 | PayPal, BTC | Windows, macOS, Android, iOS, Linux (CLI) |
 
