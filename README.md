@@ -208,4 +208,8 @@ Feel free to share your results and setups!
 
 ---
 
+<p align="center"> 
+  Views<br>
+  <img src="https://profile-counter.glitch.me/passiveincomebandwitch/count.svg" />
+</p>
 
