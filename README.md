@@ -6,7 +6,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/Lopimake/Passive-Income-Bandwidth?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Lopimake/Passive-Income-Bandwidth?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active%20&%20Profitable-brightgreen?style=flat-square)
-![](https://komarev.com/ghpvc/?username=your-github-username&label=Views)
+![](https://komarev.com/ghpvc/?username=Lopimake&label=Views)
 
 ## 📖 About This Repository
 
